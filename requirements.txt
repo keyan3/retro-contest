@@ -1,0 +1,9 @@
+atari-py==0.2.6
+cloudpickle==1.2.2
+gym==0.10.5
+gym-retro==0.5.5
+mujoco-py==2.0.2.2
+opencv-python==4.4.0.42
+Pillow==8.0.0
+scipy==1.5.3
+tensorflow==1.7.0
